@@ -145,6 +145,11 @@ public class Lab2P1_AlejandraReyes {
             
                     
             }
+        System.out.println(" ********* M E N U *********");
+        System.out.println(" 1. Dibujando triangulos ");
+        System.out.println(" 2. Area de figuras ");
+        System.out.println(" 3. Evaluando numeros ");
+        System.out.println(" 4. Salir del programa ");
          System.out.print("Seleccione una opcion   ");
          opcion=leer.nextInt(); 
         }
